@@ -1,1 +1,1 @@
-xhofe/alist:latest
+kuklinistvan/anki-sync-server:latest

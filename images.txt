@@ -1,1 +1,1 @@
---platform liunx/arm64 mysql:80
+--platform linux/arm64 mysql:80
